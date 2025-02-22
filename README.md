@@ -1,1 +1,1 @@
-# portfolio.html
+# portfolio.html This is a tutorial for beginners who are learning html the goal.png contains the goal, you can clear the code in index.html and try it yourself,this folder contains all the necessary images and files to create the html poster.Try it yourself.
